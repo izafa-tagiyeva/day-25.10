@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CCE233-675F-44D1-982E-F4DC4104D80F}|ConsoleApp1.csproj|c:\\users\\izafe\\onedrive\\desktop\\day-24.10\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CCE233-675F-44D1-982E-F4DC4104D80F}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7579C5E-6D18-4352-83C1-F2EA50F52304}|..\\Core\\Core.csproj|c:\\users\\izafe\\onedrive\\desktop\\day-24.10\\core\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7579C5E-6D18-4352-83C1-F2EA50F52304}|..\\Core\\Core.csproj|c:\\users\\izafe\\onedrive\\desktop\\day-24.10\\core\\helper\\enums\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7579C5E-6D18-4352-83C1-F2EA50F52304}|..\\Core\\Core.csproj|c:\\users\\izafe\\onedrive\\desktop\\day-24.10\\core\\helper\\exceptions\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7579C5E-6D18-4352-83C1-F2EA50F52304}|..\\Core\\Core.csproj|c:\\users\\izafe\\onedrive\\desktop\\day-24.10\\core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7579C5E-6D18-4352-83C1-F2EA50F52304}|..\\Core\\Core.csproj|c:\\users\\izafe\\onedrive\\desktop\\day-24.10\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Types.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\Core\\helper\\Enums\\Types.cs",
+              "RelativeDocumentMoniker": "..\\Core\\helper\\Enums\\Types.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\Core\\helper\\Enums\\Types.cs",
+              "RelativeToolTip": "..\\Core\\helper\\Enums\\Types.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:28:24.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriceMustBeGratherThanZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\Core\\helper\\Exceptions\\PriceMustBeGratherThanZeroException.cs",
+              "RelativeDocumentMoniker": "..\\Core\\helper\\Exceptions\\PriceMustBeGratherThanZeroException.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\Core\\helper\\Exceptions\\PriceMustBeGratherThanZeroException.cs",
+              "RelativeToolTip": "..\\Core\\helper\\Exceptions\\PriceMustBeGratherThanZeroException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:23:37.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Core",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "..\\Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\Core\\Core.csproj",
+              "RelativeToolTip": "..\\Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T14:22:05.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\Core\\Store.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Store.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\Core\\Store.cs",
+              "RelativeToolTip": "..\\Core\\Store.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:21:34.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\Core\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Product.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\Core\\Product.cs",
+              "RelativeToolTip": "..\\Core\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:19:11.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\day-24.10\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:17:19.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
