@@ -14,7 +14,8 @@ namespace ConsoleApp1
                 Console.WriteLine("Welcome");
                 Console.WriteLine("1. Add Product");
                 Console.WriteLine("2. Filter Products by Type");
-                Console.WriteLine("3. Exit");
+                Console.WriteLine("3. Filter Products by Name");
+                Console.WriteLine("4. Exit");
                 Console.Write("Choose an option: ");
 
                 string choice = Console.ReadLine();
@@ -27,13 +28,15 @@ namespace ConsoleApp1
                         FilterByType(store);
                         break;
                     case "3":
+                        FilterByName(store);
+                        break;
+                    case "4":
                         return;
                     default:
                         Console.WriteLine("Invalid option, please try again.");
                         break;
                 }
             }
-        }
 
         static void AddProduct(Store store)
         {
@@ -91,8 +94,33 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Invalid type.");
             }
-
         }
+
+        static void FilterByName(Store store)
+        {
+            Console.Write("Enter the product name to filter: ");
+            string name = Console.ReadLine();
+
+            Product[] filteredProducts = store.FilterProductByName(name);
+
+            if (filteredProducts.Any())
+            {
+                Console.WriteLine("\nFiltered Products by Name:");
+                foreach (var product in filteredProducts)
+                {
+                    Console.WriteLine($"Name: {product.Name}, Price: {product.Price}");
+                }
+            }
+            else
+            {
+                Console.WriteLine("No products found with this name.");
+            }
+        }
+
+
+
+
+
     }
 }
 

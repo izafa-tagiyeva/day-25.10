@@ -28,6 +28,20 @@ namespace Core
         
         public void RemoveProductByNo(int no)
         {
+            Product[] newProducts = new Product[_products.Length - 1]; 
+            int j = 0;
+
+            for (int i = 0; i < _products.Length; i++)
+            {
+                if (_products[i].No != no) 
+                {
+                    newProducts[j++] = _products[i]; 
+                }
+            }
+
+            _products = newProducts; 
+            _count--; 
+
         }
 
         
